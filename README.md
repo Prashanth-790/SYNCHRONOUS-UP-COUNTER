@@ -1,4 +1,4 @@
-study-of-basic-gates
+
 
 ## NAME:LAKSHMEN PRASHANTH R
 ## REG NO:24007066
