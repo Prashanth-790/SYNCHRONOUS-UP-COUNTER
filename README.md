@@ -42,9 +42,6 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 ![Screenshot 2025-01-04 143333](https://github.com/user-attachments/assets/ec4a9b59-d881-44e6-8b4c-7c68f7b854b6)
 
-
-
-
 **RTL LOGIC UP COUNTER**
 ![Screenshot 2025-01-04 143402](https://github.com/user-attachments/assets/d0751649-6c92-44e4-9b58-73253c1280fd)
 
@@ -58,4 +55,5 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 
 **RESULTS**
+
 SYNCHRONOUS-UP-COUNTER has been studied and verified successfully using quartus software.
